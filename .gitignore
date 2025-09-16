@@ -1,0 +1,46 @@
+# .NET build folders
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# NuGet packages
+*.nupkg
+# NuGet restore files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# ASP.NET secrets
+secrets.json
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Rider
+.idea/
+*.idea/
+
+# Others
+*.vspscc
+*.vssscc
+
+# Static web assets
+**/staticwebassets/
+
+# Publish output
+publish/
+
+# Test results
+TestResults/
