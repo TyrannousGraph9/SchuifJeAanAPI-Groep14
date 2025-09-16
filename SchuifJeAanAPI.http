@@ -1,0 +1,6 @@
+@SchuifJeAanAPI_HostAddress = http://localhost:5118
+
+GET {{SchuifJeAanAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
